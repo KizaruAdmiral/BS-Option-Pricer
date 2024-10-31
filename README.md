@@ -15,9 +15,11 @@ If you would like to dig deeper into the Black-Scholes model, you may visit the 
 https://tradeoptionswithme.com/black-scholes-explained/
 
 # What is Streamlit?
-Streamlit
+Streamlit is a Python library designed to simplify the creation and sharing of custom web applications, enabling users to quickly build and deploy interactive data applications.
 
+For further details, you may visit the below website:
 
+https://streamlit.io/
 
 
 
