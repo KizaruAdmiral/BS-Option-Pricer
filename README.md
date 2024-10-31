@@ -43,4 +43,5 @@ https://www.youtube.com/watch?v=zHAM5MGehV8&list=PLxvRLWqiBMjq01Ge8vpMfdYcgSjj0u
 After running the code, you could see the below results:
 ![Step 1 (guided)](https://github.com/user-attachments/assets/11bcc819-3c34-4843-9aae-44cd714a186a)
 ![Step 2 (guided)](https://github.com/user-attachments/assets/9afd92ef-2a38-478c-98e9-f5618de99ade)
+![Step 3 (guided)](https://github.com/user-attachments/assets/6ee4af3c-7203-48c5-92f3-e50496ff26fa)
 
