@@ -21,9 +21,7 @@ For further details, you may visit the below website:
 
 https://streamlit.io/
 
-
-
-# How to run
+# How to run? (For Window users)
 To run the main.py:
   1. Install VScode
   2. Set up Python in VScode
@@ -40,3 +38,5 @@ https://www.youtube.com/watch?v=EiA4fRfLuCk&list=PLa6CNrvKM5QU7AjAS90zCMIwi9RTFN
 In case if "python was not found...." OR "the term 'streamlit' is not recognized as the name of a cmdlet.....", you may look at here:
 
 https://www.youtube.com/watch?v=zHAM5MGehV8&list=PLxvRLWqiBMjq01Ge8vpMfdYcgSjj0uVRf
+
+# Results Overview
