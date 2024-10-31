@@ -40,3 +40,6 @@ In case if "python was not found...." OR "the term 'streamlit' is not recognized
 https://www.youtube.com/watch?v=zHAM5MGehV8&list=PLxvRLWqiBMjq01Ge8vpMfdYcgSjj0uVRf
 
 # Results Overview
+After running the code, you could see the below results:
+![Step 1 (guided)](https://github.com/user-attachments/assets/11bcc819-3c34-4843-9aae-44cd714a186a)
+
