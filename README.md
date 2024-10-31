@@ -1,5 +1,7 @@
 # What is it?
-Welcome to our interactive Black-Scholes option pricing model, designed to provide users with a comprehensive and engaging experience. This application allows users to input key parameters of the Black-Scholes model and instantly view the calculated prices for both CALL and PUT options. In addition to price calculations, our model offers an insightful sensitivity analysis feature. Users can dynamically adjust the SPOT PRICE and VOLATILITY parameters, with the resulting sensitivity metrics visualized in an intuitive heatmap format. Explore the intricacies of option pricing and deepen your understanding of market dynamics with this user-friendly tool!
+Welcome to our interactive Black-Scholes option pricing model! This application allows users to input key parameters of the Black-Scholes model and instantly view the calculated prices for both CALL and PUT options, dedicated to provide users with a comprehensive and engaging experience. In addition to price calculations, our model offers an insightful sensitivity analysis feature. Users can dynamically adjust the SPOT PRICE and VOLATILITY parameters, with the resulting sensitivity metrics visualized in an intuitive heatmap format.
+
+Explore the intricacies of option pricing and deepen your understanding of market dynamics with this user-friendly tool!
 # What is a Black-Scholes model?
 Developed in 1973 by Fischer Black, Robert Merton, and Myron Scholes, the Black-Scholes model was the first widely used mathematical method to calculate the theoretical value of an option contract. To calculate an option's theoretical value using the Black-Scholes model, we need to know the below FIVE characteristics of the option and its underlying contract:
   1. The option's exercise price
